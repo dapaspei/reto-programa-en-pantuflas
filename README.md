@@ -105,7 +105,20 @@ Deja esta línea para no perder la referencia:
 
 Estoy participando en el reto #ProgramaEnPantuflas.
 
-Aquí tu primer apunte
+**Fecha**: 05/01/2021
+
+**Humor**: 😀
+
+**Hitos conseguidos**:
+
+*   Descargar CodeIgniter 4
+*   Configurar las variables de entorno y base de datos.
+*   Ver la pantalla de Login sin errores.(Modelo, Vista -con Tailwindcss- y Controlador).
+
+**Próximos hitos**
+
+*   Conseguir hacer un Login y ver la vista principal de la app.
+
 
 ## **Badges**
 
