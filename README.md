@@ -18,6 +18,20 @@ Para saber más: [programa en pantuflas](https://github.com/delineas/reto-progra
 
 *   Conseguir hacer un Login y ver la vista principal de la app.
 
+**Fecha**: 07/01/2021
+
+**Humor**: 😀
+
+**Hitos conseguidos**:
+
+*   Crear la lógica para registrar un usuario. 
+*   Acceder a la base de datos.
+*   Registrar un usuario.
+*   Comprobar los datos del formulario de registro.
+
+**Próximos hitos**
+
+*   Hacer login con un usuario registrado y que muestre el dashboard.
 
 ## **Badges**
 
