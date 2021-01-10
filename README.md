@@ -33,6 +33,23 @@ Para saber más: [programa en pantuflas](https://github.com/delineas/reto-progra
 
 *   Hacer login con un usuario registrado y que muestre el dashboard.
 
+**Fecha**: 10/01/2021
+
+**Humor**: 😀
+
+**Hitos conseguidos**:
+
+*   Acceso por login hecho.
+*   Mostar el dashboard al acceder con use+password.
+*   Pantalla de edición de perfil semihecha.
+*   Creado filtro para comprobar si el usuario está identificado en cada ruta.
+
+**Próximos hitos**
+
+*   Modificar el perfil: realizar todos los cambios necesarios: nombre, apellidos, email, contraseña.+
+*   Crear un filtro para saber si el usuario es profesor, administrador o alumno.
+
+
 ## **Badges**
 
 Aquí puedes incorporar la lista de badges que has conseguido en el juego de gamificación del reto #ProgramoEnPantuflas.
