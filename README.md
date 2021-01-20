@@ -77,6 +77,21 @@ Para saber más: [programa en pantuflas](https://github.com/delineas/reto-progra
 *   Crear un dropmenu para seleccionar el idioma (y comprobar que la localización es correcta).
 *   Crear un filtro para saber si el usuario es profesor, administrador o alumno.
 
+**Fecha**: 19/01/2021
+
+**Humor**: 😀😀
+
+**Hitos conseguidos**:
+
+*   Adaptada pantalla 'dashboard' al el estilo [Winmill-Dashboad](https://github.com/estevanmaito/windmill-dashboard). Verificada con los usuarios: es más limipia y agradable de ver XDD.
+*   Comprobado que la "internacionalización" funciona al cambiar el idioma en el navegador. 
+
+**Próximos hitos**
+
+*   Adaptar ~~la pantalla de login y~~ la de modificar el perfil: realizar todos los cambios necesarios: nombre, apellidos, email, contraseña.
+*   Crear un dropmenu para seleccionar el idioma ~~(y comprobar que la localización es correcta)~~.
+*   Crear un filtro para saber si el usuario es profesor, administrador o alumno.
+
 
 
 
