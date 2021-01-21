@@ -69,7 +69,7 @@ Para saber más: [programa en pantuflas](https://github.com/delineas/reto-progra
 
 **Hitos conseguidos**:
 
-*   Adaptada pantalla inicial (login) con el estilo [Winmill-Dashboad](https://github.com/estevanmaito/windmill-dashboard).
+*   Adaptada pantalla inicial (login) con el estilo [Windmill-Dashboad](https://github.com/estevanmaito/windmill-dashboard).
 
 **Próximos hitos**
 
@@ -83,7 +83,7 @@ Para saber más: [programa en pantuflas](https://github.com/delineas/reto-progra
 
 **Hitos conseguidos**:
 
-*   Adaptada pantalla 'dashboard' al el estilo [Winmill-Dashboad](https://github.com/estevanmaito/windmill-dashboard). Verificada con los usuarios: es más limipia y agradable de ver XDD.
+*   Adaptada pantalla 'dashboard' al estilo [Windmill-Dashboad](https://github.com/estevanmaito/windmill-dashboard). Verificada con los usuarios: es más limipia y agradable de ver XDD.
 *   Comprobado que la "internacionalización" funciona al cambiar el idioma en el navegador. 
 
 **Próximos hitos**
@@ -92,6 +92,21 @@ Para saber más: [programa en pantuflas](https://github.com/delineas/reto-progra
 *   Crear un dropmenu para seleccionar el idioma ~~(y comprobar que la localización es correcta)~~.
 *   Crear un filtro para saber si el usuario es profesor, administrador o alumno.
 
+**Fecha**: 21/01/2021
+
+**Humor**: 😀😀😀
+
+**Hitos conseguidos**:
+
+*   ~~Adaptada pantalla 'dashboard' al estilo [Winmill-Dashboad](https://github.com/estevanmaito/windmill-dashboard). Verificada con los usuarios: es más limipia y agradable de ver XDD.~~
+*   ~~Comprobado que la "internacionalización" funciona al cambiar el idioma en el navegador. ~~
+*   Creado un menú en la barra de navegación superior para seleccionar el idioma ~~(y comprobar que la localización es correcta)~~. De momento 3 idiomas: español, valenciano e inglés.
+
+**Próximos hitos**
+
+*   Añadir filtros en las rutas para comprobar el estado del login.
+*   Adaptar ~~la pantalla de login y~~ la de modificar el perfil: realizar todos los cambios necesarios: nombre, apellidos, email, contraseña.
+*   Crear un filtro para saber si el usuario es profesor, administrador o alumno.
 
 
 
