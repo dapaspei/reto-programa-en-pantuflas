@@ -1,5 +1,9 @@
 # **Programa En Pantuflas**
 
+## Insignias
+
+![5 pantuflas](https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-pantufla5.png)
+
 # Estoy participando en el reto #ProgramaEnPantuflas.
 
 Para saber más: [programa en pantuflas](https://github.com/delineas/reto-programa-en-pantuflas)
