@@ -2,6 +2,7 @@
 
 ## Insignias
 
+![1 pantufla](https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-pantufla1.png =48x48)
 ![5 pantuflas](https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-pantufla5.png)
 
 # Estoy participando en el reto #ProgramaEnPantuflas.
