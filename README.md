@@ -134,11 +134,6 @@ Para saber más: [programa en pantuflas](https://github.com/delineas/reto-progra
 
 <img src="https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-pantufla1.png" width="200" /><img src="https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-pantufla5.png" width="275" />
 
-## **Diarios públicos**
-
-*   [Supercoco](https://github.com/delineas/supercoco-programa-en-pantuflas)
-*   [Delineas](https://github.com/delineas/programa-en-pantuflas)
-
 ## **Humor**
 
 Estados posibles de humor:
