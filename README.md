@@ -1,5 +1,12 @@
 # **Programa En Pantuflas**
 
+![](https://img.shields.io/badge/Pantufla_1-1-green)
+![](https://img.shields.io/badge/Pantufla_2-5-yellow)
+![](https://img.shields.io/badge/Pantufla_3-15-lightgrey)
+
+## **Mi diario empieza aquí**
+
+
 ## Insignias
 
 <img src="https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-pantufla1.png" width="200" /><img src="https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-pantufla5.png" width="275" />
@@ -112,7 +119,21 @@ Para saber más: [programa en pantuflas](https://github.com/delineas/reto-progra
 *   Adaptar ~~la pantalla de login y~~ la de modificar el perfil: realizar todos los cambios necesarios: nombre, apellidos, email, contraseña.
 *   Crear un filtro para saber si el usuario es profesor, administrador o alumno.
 
+**Fecha**: 23/01/2021
 
+**Humor**: 😀
+
+**Hitos conseguidos**:
+
+*   ~~Creado un menú en la barra de navegación superior para seleccionar el idioma (y comprobar que la localización es correcta). De momento 3 idiomas: español, valenciano e inglés.~~
+*   ~~Añadir filtros en las rutas para comprobar el estado del login.~~
+*   ~~Creado un filtro en el login para saber si el usuario es profesor, administrador o alumno.~~
+
+**Próximos hitos**
+
+*   Adaptar ~~la pantalla de login y~~ la de modificar el perfil: realizar todos los cambios necesarios: nombre, apellidos, email, contraseña.
+*   Mostrar los retos asociados a un profesor y un curso escolar determinado.
+*   Cambiar los retos mostrados en función del curso escolar seleccionado.
 
 ## **Badges**
 
@@ -126,3 +147,10 @@ Solo para malandriners premium.
 
 *   [Supercoco](https://github.com/delineas/supercoco-programa-en-pantuflas)
 *   [Delineas](https://github.com/delineas/programa-en-pantuflas)
+
+## **Humor**
+
+Estados posibles de humor:
+- :grinning:
+- :neutral_face:
+- :frowning_face:
