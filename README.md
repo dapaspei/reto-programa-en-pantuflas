@@ -2,14 +2,9 @@
 
 ![](https://img.shields.io/badge/Pantufla_1-1-green)
 ![](https://img.shields.io/badge/Pantufla_2-5-yellow)
-![](https://img.shields.io/badge/Pantufla_3-15-lightgrey)
+![](https://img.shields.io/badge/Pantufla_3-8/15-lightgrey)
 
 ## **Mi diario empieza aquí**
-
-
-## Insignias
-
-<img src="https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-pantufla1.png" width="200" /><img src="https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-pantufla5.png" width="275" />
 
 # Estoy participando en el reto #ProgramaEnPantuflas.
 
@@ -135,13 +130,9 @@ Para saber más: [programa en pantuflas](https://github.com/delineas/reto-progra
 *   Mostrar los retos asociados a un profesor y un curso escolar determinado.
 *   Cambiar los retos mostrados en función del curso escolar seleccionado.
 
-## **Badges**
+## Insignias
 
-Aquí puedes incorporar la lista de badges que has conseguido en el juego de gamificación del reto #ProgramoEnPantuflas.
-
-Solo para malandriners premium.
-
-\[WIP\]
+<img src="https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-pantufla1.png" width="200" /><img src="https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-pantufla5.png" width="275" />
 
 ## **Diarios públicos**
 
