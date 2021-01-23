@@ -3,7 +3,7 @@
 ## Insignias
 
 <img src="https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-pantufla1.png" width="150" />
-![5 pantuflas](https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-pantufla5.png)
+<img src="https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-pantufla5.png" width="225" />
 
 # Estoy participando en el reto #ProgramaEnPantuflas.
 
